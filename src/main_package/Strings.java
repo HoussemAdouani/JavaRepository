@@ -8,9 +8,7 @@ public class Strings {
 	public final static String animalShark = "The animal is a shark !";
 	public final static String gotItRight = "I got it right !";
 	public final static String letsContinue = "Let's continue !";
-	
 	public final static String chosenAnimalQuestion ="What animal did you think?";
-	
 	public final static String exitGame="Do you want to leave the game?";
 
 	

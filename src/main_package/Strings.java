@@ -13,6 +13,5 @@ public class Strings {
 	
 	public final static String exitGame="Do you want to leave the game?";
 
-	public final static String thanksPlaying ="Thanks for playing !";
-
+	
 }
